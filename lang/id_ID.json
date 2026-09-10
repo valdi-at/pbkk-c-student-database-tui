@@ -1,0 +1,36 @@
+{
+  "name": "Bahasa Indonesia",
+  "translation": {
+    "menu": {
+      "viewAllStudents": "Lihat Semua Siswa",
+      "searchByName": "Cari Berdasarkan Nama",
+      "searchById": "Cari Berdasarkan ID",
+      "addStudent": "Tambah Siswa",
+      "updateStudent": "Perbarui Siswa",
+      "deleteStudent": "Hapus Siswa",
+      "exit": "Keluar"
+    },
+    "messages": {
+      "noStudentsFound": "Tidak ada siswa ditemukan.",
+      "allStudents": "Semua Siswa",
+      "found": "Ditemukan",
+      "studentNotFound": "Siswa tidak ditemukan.",
+      "studentAddedSuccessfully": "Siswa berhasil ditambahkan.",
+      "studentUpdatedSuccessfully": "Siswa berhasil diperbarui.",
+      "studentDeletedSuccessfully": "Siswa berhasil dihapus.",
+      "invalidId": "ID tidak valid.",
+      "goodbye": "Sampai jumpa!",
+      "invalidOption": "Opsi tidak valid. Coba lagi.",
+      "languageChanged": "Bahasa diubah menjadi: ",
+      "invalidLanguage": "Pemilihan bahasa tidak valid."
+    },
+    "prompts": {
+      "enterStudentName": "Masukkan nama siswa: ",
+      "enterStudentId": "Masukkan ID siswa: ",
+      "enterIdToUpdate": "Masukkan ID siswa untuk diperbarui: ",
+      "enterNewName": "Masukkan nama baru: ",
+      "enterIdToDelete": "Masukkan ID siswa untuk dihapus: ",
+      "chooseOption": "Pilih opsi: "
+    }
+  }
+}

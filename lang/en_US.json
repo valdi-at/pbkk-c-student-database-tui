@@ -1,0 +1,36 @@
+{
+  "name": "English (US)",
+  "translation": {
+    "menu": {
+      "viewAllStudents": "View All Students",
+      "searchByName": "Search by Name",
+      "searchById": "Search by ID",
+      "addStudent": "Add Student",
+      "updateStudent": "Update Student",
+      "deleteStudent": "Delete Student",
+      "exit": "Exit"
+    },
+    "messages": {
+      "noStudentsFound": "No students found.",
+      "allStudents": "All Students",
+      "found": "Found",
+      "studentNotFound": "Student not found.",
+      "studentAddedSuccessfully": "Student added successfully.",
+      "studentUpdatedSuccessfully": "Student updated successfully.",
+      "studentDeletedSuccessfully": "Student deleted successfully.",
+      "invalidId": "Invalid ID.",
+      "goodbye": "Goodbye!",
+      "invalidOption": "Invalid option. Try again.",
+      "languageChanged": "Language changed to: ",
+      "invalidLanguage": "Invalid language selection."
+    },
+    "prompts": {
+      "enterStudentName": "Enter student name: ",
+      "enterStudentId": "Enter student ID: ",
+      "enterIdToUpdate": "Enter student ID to update: ",
+      "enterNewName": "Enter new name: ",
+      "enterIdToDelete": "Enter student ID to delete: ",
+      "chooseOption": "Choose an option: "
+    }
+  }
+}
